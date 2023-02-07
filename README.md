@@ -1,5 +1,5 @@
 # computing_flag_Dressian
-We compute the 4 step flag Dressian, and its positive part, using the main results of the paper "Generalized Permutahedra and Positive Flag Dresians". Note: We are in fact computing an embedding of the flag Dressian as a subset of the secondary fan of the 3 dimensional permutahedron. The support of the fan we are computing is the same as the subfan of the secondary fan that corresponds to permutahedral subdivisions. However, the fan structure is in fact coarser.
+We compute the 4 step flag Dressian, and its positive part, using the main results of the paper "Generalized Permutahedra and Positive Flag Dresians". Note: We are in fact computing an embedding of the flag Dressian as a subset of the secondary fan of the 3 dimensional permutahedron. The support of the fan we are computing is the same as the subfan of the secondary fan that corresponds to permutahedral subdivisions. However, the fan we compute is a coarsening of the subfan of the secondary fan.
 
 Paper: https://arxiv.org/pdf/2111.13676.pdf
 
